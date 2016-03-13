@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "no-unused-vars": 0,
+    "prefer-const": 0
+  }
+}
